@@ -19,6 +19,11 @@
     position: relative;
     background-color: rgba(209, 102, 3, 0.464);
 }
+.first .circle i{
+    font-size: 25px;
+    color: rgba(107, 56, 7, 0.973);
+    margin: 10px;
+}
 .first h1{
     margin-top: 7rem;
     margin-left: 50px;
@@ -68,6 +73,11 @@
     position: relative;
     background-color: rgba(1, 68, 72, 0.678);
 }
+.second .circle i{
+    font-size: 25px;
+    color: rgb(4, 176, 185);
+    margin: 10px;
+}
 .second h1{
     margin-left: 50px;
     margin-top: 7rem;
@@ -115,7 +125,12 @@
     margin-left: 50px;
     top: 50px;
     position: relative;
-    background-color: rgba(3, 43, 5, 0.353);
+    background-color: rgba(2, 82, 6, 0.353);
+}
+.third .circle i{
+    font-size: 25px;
+    color: rgb(3, 168, 11);
+    margin: 10px;
 }
 .third h1{
     margin-left: 50px;
@@ -139,7 +154,7 @@
     cursor: pointer;
     margin-top: 50px;
     border: none;
-    color: rgb(4, 98, 103);
+    color: rgba(3, 43, 5, 0.911);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 17px;
 }
